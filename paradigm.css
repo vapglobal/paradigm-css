@@ -1,3 +1,5 @@
-.test-paradigm {
-    width: 1000px
+.description-container {
+    background-color:#f0f0f0;
+    border: 1px solid grey;
+    padding:5px;
 }
